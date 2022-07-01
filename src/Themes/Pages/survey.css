@@ -1,0 +1,45 @@
+.main-container {
+  display: flex;
+}
+
+h1 {
+  font-family: "Made Gentle";
+  font-size: 48px;
+  font-weight: 400;
+  width: 60%;
+}
+
+h2 {
+  font-family: "DMSans";
+  font-weight: 100;
+  font-size: 18px;
+  width: 70%;
+  margin-bottom: 4%;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: bold;
+  color: #5e6060;
+}
+
+.left-part {
+  width: 55%;
+  margin: auto;
+}
+
+.button-container {
+  display: flex;
+}
+
+.right-part {
+  width: 45%;
+  height: 100%;
+}
+
+.right-part > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

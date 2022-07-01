@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "DMSans";
+  src: local("DMSans"), url("./fonts/DMSans-Regular.ttf") format("truetype");
+  font-weight: regular;
+}
+
+@font-face {
+  font-family: "Made Gentle";
+  src: local("Made Gentle"),
+    url("./fonts/MADE\ Gentle\ PERSONAL\ USE.otf") format("opentype");
+  font-weight: regular;
+}
+
+body {
+  margin: 0% 0% 0% 3%;
+}
